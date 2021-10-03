@@ -33,7 +33,9 @@
     <TableRow>
         <TextView
             android:textColor="#959595"
-            android:text="Save as...."
+            android:text="Save as...."![tablelayout](https://user-images.githubusercontent.com/90606328/135760953-5dff57b0-08d4-498c-9ec4-027741edf809.jpg)
+![tablelayout](https://user-images.githubusercontent.com/90606328/135760958-8d13a32b-f64b-401c-9b9e-76f120c7d645.jpg)
+
             android:paddingLeft="10dp"/>
         <TextView
             android:textColor="#959595"
